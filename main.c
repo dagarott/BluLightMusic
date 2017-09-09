@@ -767,12 +767,12 @@ int main(void)
 		for (;;)
 		{
 			//power_manage();
-			for (int j=0; j<73; j++)
+			for (int j=1000; j<4000; (j=j+500))
 			{
 				
 					//drv_speaker_sample_play(j);
-					note=starwars[j];
-					drv_speaker_tone_start(starwars[j],starwars[j+1] , 200);
+					//note=starwars[j];
+					drv_speaker_tone_start(j,200 , 200);
 					//drv_speaker_tone_start(2000, 500 , 100);
 					nrf_delay_ms(100);						
 			}
