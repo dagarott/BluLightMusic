@@ -1,0 +1,46 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\Users\dani\workspace\BlueLedMusic_AltiumProject\FDC658AP.lbr
+    Analyzing data of C:\Users\dani\workspace\BlueLedMusic_AltiumProject\FDC658AP.lbr
+    Load settings
+    Load layers 46
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\dani\workspace\BlueLedMusic_AltiumProject\LTC2954CTS8-2.lbr
+    Analyzing data of C:\Users\dani\workspace\BlueLedMusic_AltiumProject\LTC2954CTS8-2.lbr
+    Load settings
+    Load layers 46
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\dani\workspace\BlueLedMusic_AltiumProject\SOP65P490X110-8N.lbr
+    Analyzing data of C:\Users\dani\workspace\BlueLedMusic_AltiumProject\SOP65P490X110-8N.lbr
+    Load settings
+    Load layers 46
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\Users\dani\workspace\BlueLedMusic_AltiumProject\SOT95P280X145-3N.lbr
+    Analyzing data of C:\Users\dani\workspace\BlueLedMusic_AltiumProject\SOT95P280X145-3N.lbr
+    Load settings
+    Load layers 46
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection

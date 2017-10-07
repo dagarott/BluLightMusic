@@ -1,0 +1,14 @@
+PCAD Importer Log
+Project : SOT95P280X145-3N.LibPkg
+
+Section : C:\Users\dani\workspace\BlueLedMusic_AltiumProject\SOT95P280X145-3N.lia
+    Section : PCB Library - SOT95P280X145-3N.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 98
+            Warning - 1 : Skipping Token isVisible On Line 123
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+EndSection
